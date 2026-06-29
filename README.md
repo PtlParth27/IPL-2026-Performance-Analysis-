@@ -1,5 +1,4 @@
-# IPL-2026-Performance-Analysis-
-A comprehensive IPL 2026 Performance Analysis project using Python, Pandas, NumPy, Matplotlib, and Seaborn. This project explores team and player performance, batting and bowling statistics, match outcomes, win analysis, and key insights through data visualization and exploratory data analysis (EDA).
+
 # 🏏 IPL 2026 Performance Analysis
 
 A comprehensive data analysis project on the IPL 2026 season using Python. This project explores team performance, player statistics, match outcomes, batting and bowling analysis, and key tournament insights through Exploratory Data Analysis (EDA) and data visualization.
